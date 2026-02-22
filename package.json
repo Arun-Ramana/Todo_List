@@ -1,0 +1,24 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "main": "Todolist.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server . -p 3001 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArunRamana-organization/Todo_List.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArunRamana-organization/Todo_List/issues"
+  },
+  "homepage": "https://github.com/ArunRamana-organization/Todo_List#readme",
+  "description": "",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
